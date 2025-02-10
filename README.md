@@ -22,3 +22,7 @@ The smart lighting control screen provides an interactive UI for managing lights
 To ensure a clean and modern aesthetic, I used a blue & white theme, rounded corners, and soft shadows. Icons and typography were carefully selected for clarity and accessibility. The layout was structured using Auto Layout in Figma for responsiveness.
 
 For prototyping, I created interactive elements, including toggle switch animations, hover effects on the microphone icon, and smooth transitions for a more dynamic experience.
+
+#OutPut
+
+![Image](https://github.com/user-attachments/assets/5cc35298-4c3f-4ec1-9e57-5d1a474d1f1c)
